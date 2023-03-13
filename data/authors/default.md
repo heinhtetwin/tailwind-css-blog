@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Hein Htet Win
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: DevOps Engineer
+company: UIT
+email: heinhtetwin386@gmail.com
+twitter: https://twitter.com/HeinuxDevOps
+linkedin: https://www.linkedin.com/in/hein-htet-win
+github: https://github.com/heinhtetwin
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Hein Htet is a DevOps Engineer at AYA Innovation Labs and is passionate about open-source software. Cloud computing and DevOps Engineering are his main areas of interest.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+He attempts to automate as much as he can because of his automation mindset. He strives to produce software more quickly and effectively. Currently exploring topics like IAC, Kubernetes Service Mash and Chaos Engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is presently working primarily with nodejs and reactjs to construct CI/CD pipelines and containerize applications. In addition to his job, Hein spends his free time with pals playing video games.
