@@ -5,11 +5,11 @@ const siteMetadata = {
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://heinuxblog.heinhtetwin.com',
   siteRepo: 'https://github.com/heinhtetwin/tailwind-css-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/logo.png',
   email: 'heinhtetwin386@gmail.com',
   github: 'https://github.com/heinhtetwin',
   twitter: 'https://twitter.com/HeinuxDevOps',
